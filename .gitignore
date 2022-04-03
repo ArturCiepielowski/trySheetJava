@@ -1,2 +1,5 @@
 .idea/
 *.iml
+
+# Why it still shows me this dir while using git status?
+/out/production/ForJavaLearn/trySheet.class

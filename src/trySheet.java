@@ -9,8 +9,10 @@ public class trySheet {
 
         Random random = new Random();
 
-        int x = random.nextInt();
-        System.out.println(x);
+        //int x = random.nextInt(6);
+       // double y =random.nextDouble();
+        boolean z = random.nextBoolean();
+        System.out.println(z);
 
     }
 
